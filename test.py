@@ -59,4 +59,3 @@ decrypted_text = vernam_decrypt(encrypted_text, key)
 # Natijani chop etish
 print(f"Shifrlangan matn: {encrypted_text}")
 print(f"Kalit so'z: {key}")
-print(f"Asl matn: {decrypted_text}")
