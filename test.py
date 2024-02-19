@@ -57,4 +57,3 @@ def vernam_decrypt(encrypted_text1, key):
 decrypted_text = vernam_decrypt(encrypted_text, key)
 
 # Natijani chop etish
-print(f"Shifrlangan matn: {encrypted_text}")
