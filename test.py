@@ -55,4 +55,3 @@ def vernam_decrypt(encrypted_text1, key):
 
 # Deshifrlash vaqti
 decrypted_text = vernam_decrypt(encrypted_text, key)
-
