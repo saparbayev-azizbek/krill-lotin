@@ -53,4 +53,3 @@ def vernam_decrypt(encrypted_text1, key):
 # encrypted_text = ""
 # key = "OTOTOT"
 
-# Deshifrlash vaqti
