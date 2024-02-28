@@ -52,4 +52,3 @@ def vernam_decrypt(encrypted_text1, key):
 # Shifrlangan matn va kalit so'zni o'rnating
 # encrypted_text = ""
 # key = "OTOTOT"
-
